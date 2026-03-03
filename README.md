@@ -11,8 +11,16 @@
 
 ### 🛠 Languages-Frameworks-Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,git,docker,linux,circleci,n8n.io" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,git,docker,linux,aws,azure" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qoder-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Utho%20Cloud-0066FF?style=for-the-badge"/>
 </p>
 
 ---
