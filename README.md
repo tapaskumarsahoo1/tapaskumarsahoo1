@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tapaskumarsahoo1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tapas Kumar Sahoo</h1>
 <h3 align="center">Senior Python Django Developer from India 🇮🇳</h3>
 
