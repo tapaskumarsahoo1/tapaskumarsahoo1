@@ -12,7 +12,7 @@
 ### 🛠 Languages-Frameworks-Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,git,docker,linux,circleci" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,git,docker,linux,circleci,n8n.io" />
 </p>
 
 ---
